@@ -270,7 +270,7 @@
     <section>
 
         <h1>COMING SOON</h1>
-
+        apakah benar seperti itu?
     </section>
 
     <div class="further">
