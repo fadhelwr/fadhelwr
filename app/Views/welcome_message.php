@@ -270,7 +270,7 @@
     <section>
 
         <h1>COMING SOON</h1>
-        coba sync
+        coba
     </section>
 
     <div class="further">
